@@ -1,6 +1,6 @@
 # 🏄‍♂️ Sergio Brt 
 <img src="https://github.com/sergiobrt/sergiobrt/assets/171583512/1de685a0-99dd-40a4-9ed9-a3e0a6322277" align-"right" width="30"/>
-
+<a href="https://ko-fi.com/karanchandekar"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
 
 **`MERN Stack Developer`**
 
