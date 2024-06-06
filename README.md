@@ -1,6 +1,6 @@
 # 🏄‍♂️ Sergio Brt 
 
-<a href=""> <img src="[https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif](https://i.giphy.com/VApOqITOXZAd2.webp)" alt="side Gif" align="right" width="150" height="auto"/> </a>
+<a href=""> <img src="https://i.giphy.com/VApOqITOXZAd2.webp" alt="side Gif" align="right" width="150" height="auto"/> </a>
 
 
 **`MERN Stack Developer`**
