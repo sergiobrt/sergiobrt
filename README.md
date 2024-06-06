@@ -1,4 +1,4 @@
-# 🏄‍♂️ Sergio Brt ![image](https://github.com/sergiobrt/sergiobrt/assets/171583512/1de685a0-99dd-40a4-9ed9-a3e0a6322277)
+# 🏄‍♂️ Sergio Brt <img src="https://github.com/sergiobrt/sergiobrt/assets/171583512/1de685a0-99dd-40a4-9ed9-a3e0a6322277" align-"right" width="30"/>
 
 
 **`MERN Stack Developer`**
