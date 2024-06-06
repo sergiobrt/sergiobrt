@@ -1,6 +1,5 @@
 # 🏄‍♂️ Sergio Brt 
-<img src="[https://github.com/sergiobrt/sergiobrt/assets/171583512/1de685a0-99dd-40a4-9ed9-a3e0a632227](https://cdn3.emoji.gg/emojis/5045-luffy-happy.png)7" align-"right" width="30"/>
-<a href=""> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
+<a href=""> <img src="[https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif](https://cdn3.emoji.gg/emojis/5045-luffy-happy.png)" alt="side Gif" align="right" width="150" height="auto"/> </a>
 
 **`MERN Stack Developer`**
 
