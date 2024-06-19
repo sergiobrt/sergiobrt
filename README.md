@@ -3,7 +3,7 @@
 <a href=""> <img src="https://i.giphy.com/VApOqITOXZAd2.webp" alt="side Gif" align="right" width="150" height="auto"/> </a>
 
 
-**`MERN Stack Developer`**
+**`Olá, me chamo Sergio, sou um desenvolvedor fullstack.`**
 
 MERN Stack Developer adept at crafting dynamic web solutions. Proficient in MongoDB, Express.js, React, and Node.js, with a keen focus on delivering seamless user experiences. Passionate about integrating cutting-edge technologies to build robust and efficient applications. Collaborative team member with a drive to continuously expand skills and stay at the forefront of modern web development trends.
 
