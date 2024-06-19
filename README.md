@@ -11,7 +11,7 @@ Atualmente desenvolvo projetos utilizando HTML, CSS, SCSS, Javascript, MongoDB, 
 
 <a href="https://ko-fi.com/karanchandekar"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
 
-### 🚀 More about me
+### 🚀 Sobre mim
 
 - 🌱 I’m currently learning **Fullstack Development**
 - 👨‍💻 Personal portfolio: **<a href="https://karanchandekar.vercel.app/" target="_blank">Portfolio</a>**
