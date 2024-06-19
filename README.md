@@ -9,7 +9,7 @@ Atualmente desenvolvo projetos utilizando HTML, CSS, SCSS, Javascript, MongoDB, 
 
 #
 
-<a href="https://ko-fi.com/karanchandekar"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
+<a href="https://github.com/sergiobrt"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
 
 ### 🚀 Sobre mim
 
