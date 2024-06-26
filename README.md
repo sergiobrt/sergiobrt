@@ -1,4 +1,4 @@
-# 🏄‍♂️ Sergio Brt 
+# 🧔🏻 Sergio Brt 
 
 <a href=""> <img src="https://i.giphy.com/VApOqITOXZAd2.webp" alt="side Gif" align="right" width="150" height="auto"/> </a>
 
@@ -14,7 +14,6 @@ Atualmente desenvolvo projetos utilizando HTML, CSS, SCSS, Javascript, MongoDB, 
 ### 🚀 Sobre mim
 
 - 🌱 Atualmente estou aprendendo a ser um **Fullstack Development**
-- 👨‍💻 Acesse meu portfolio **<a href="https://karanchandekar.vercel.app/" target="_blank">Portfolio</a>**
 - 📫 Me envie um e-mail: **sergiofjr29@gmail.com**
 - ⚡ Fato interessante sobre mim: **Eu amo cheiro de grama molhada**
 
@@ -29,17 +28,26 @@ Atualmente desenvolvo projetos utilizando HTML, CSS, SCSS, Javascript, MongoDB, 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-%23323330.svg?style=for-the-badge&logo=SASS&logoColor=%CC6699)
+![SASS](https://img.shields.io/badge/Sass-000?style=for-the-badge&logo=sass)
 <br/>
 
 ### 🔧 Backend
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 <br/>
 
-### ☁️ Nuvem
+### 📚 Bibliotecas e Frameworks
 
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+<br/>
+
+### Ferramentas que utilizo
+
+![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 <br/>
 
 ### 📚 Controle de versão
