@@ -3,17 +3,23 @@
 
 🧔🏻 Sergio Franco
 
-**`Desenvolvedor Fullstack em transição para Segurança de Dados`**
+**`Profissional em transição para QA | Estudante de Qualidade de Software e Testes`**
 
-> *"Código limpo, seguro e escalável."*
+> *"Testar é prevenir. Garantir qualidade é evoluir com segurança."*
 
-Sou um entusiasta de tecnologia apaixonado por **backend, segurança da informação e boas práticas de desenvolvimento**. Meu objetivo é evoluir para uma carreira sólida em **engenharia de software e cibersegurança**, construindo projetos que protejam dados e gerem impacto.
+Sou um profissional em transição de carreira para a área de **Quality Assurance (QA)**, com forte dedicação ao aprendizado de **testes manuais**, **automação de testes** e ferramentas amplamente utilizadas no mercado, como **Git**, **Postman**, **Jira** e **Selenium**.  
+Tenho formação autodidata sólida em tecnologia, gosto de trabalhar com lógica, análise de problemas e boas práticas de desenvolvimento e qualidade.
+
+Meu objetivo é conquistar minha primeira oportunidade como **QA Jr** e contribuir com equipes focadas em entregar produtos confiáveis, escaláveis e com alta cobertura de testes.
 
 ---
 
 ## 🚀 Sobre Mim
-- 🌱 **Estudando atualmente:** Python, Django Rest Framework, OWASP Top 10 e DevSecOps.  
-- 🔐 **Foco:** Segurança de dados, autenticação, criptografia e prevenção de vulnerabilidades.  
+
+- 🎯 **Transição de carreira ativa para QA (Quality Assurance)**
+- 🌱 **Estudando atualmente:** Testes Manuais, Automação com Selenium, Git, Postman, Jira e Agile  
+- 🔍 **Foco:** Garantia da Qualidade, testes funcionais, regressão, integração, usabilidade e relatórios de bugs  
+- 💻 **Interesse:** Desenvolvimento de testes automatizados, ferramentas de QA, pipelines de CI/CD e DevTestOps  
 - 📂 **Portfólio:** [github.com/sergiobrt](https://github.com/sergiobrt)  
 - 📧 **Contato:** [sergiofjr29@gmail.com](mailto:sergiofjr29@gmail.com)
 
@@ -21,22 +27,20 @@ Sou um entusiasta de tecnologia apaixonado por **backend, segurança da informa�
 
 ## 🧰 Stack de Tecnologias  
 
-### **Frontend**  
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+### **Ferramentas de QA**  
+![Jira](https://img.shields.io/badge/Jira-0052CC.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+![Selenium](https://img.shields.io/badge/selenium-43B02A.svg?style=for-the-badge&logo=selenium&logoColor=white)
+![TestRail](https://img.shields.io/badge/TestRail-1E90FF.svg?style=for-the-badge&logoColor=white)
+![VSCode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-### **Backend**  
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### **Ferramentas e DevOps**  
+### **Versionamento e Colaboração**  
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+### **Linguagens e Apoio à Automação**  
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ---
 
@@ -49,28 +53,32 @@ Sou um entusiasta de tecnologia apaixonado por **backend, segurança da informa�
 
 ---
 
-## 🛡️ Roadmap de Estudo – Segurança de Dados  
+## 🧪 Roadmap de Estudo – Qualidade de Software  
 
-**2025 Roadmap para se tornar especialista em backend + segurança:**  
+**2025 Roadmap para se tornar QA Profissional (Manual + Automação):**  
 
-- [ ] Fundamentos de Redes e Linux (CLI e permissões).  
-- [ ] Python para Backend (APIs REST com Django Rest Framework).  
-- [ ] Banco de Dados (SQL + NoSQL).  
-- [ ] Segurança – OWASP Top 10, criptografia e autenticação JWT.  
-- [ ] Pentesting básico (Kali Linux, Burp Suite).  
-- [ ] DevSecOps e Cloud Security (AWS e Docker).  
+- [ ] Fundamentos de Testes de Software (ISTQB, tipos de testes, técnicas de casos de teste)  
+- [ ] Testes Manuais (análise de requisitos, escrita de cenários e execução prática)  
+- [ ] Versionamento com Git e GitHub  
+- [ ] Ferramentas de QA: Postman, Jira, TestRail  
+- [ ] Automação com Selenium WebDriver (JavaScript e Python)  
+- [ ] Princípios de DevTestOps, CI/CD com GitHub Actions  
+- [ ] Metodologias ágeis (Scrum, Kanban, sprints e estimativas)  
 
 ---
 
 ## 🌐 Vamos nos Conectar?  
 
-[![GitHub](https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sergiobrt)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)
-[![Email](https://img.shields.io/badge/email-red.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sergiofjr29@gmail.com)
+[![GitHub](https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sergiobrt)  
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)  
+[![Email](https://img.shields.io/badge/email-red.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sergiofjr29@gmail.com)  
 [![WhatsApp](https://img.shields.io/badge/whatsapp-%2300FF00.svg?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=19982077970)
 
 ---
 
-### **🔥 Próximos Passos**
-> 🚀 Estou desenvolvendo projetos práticos focados em **API REST segura** com **Django + JWT** e **Cloud (AWS)**.  
-> **Fique de olho nos próximos repositórios!**
+### **📌 Projetos em Desenvolvimento**
+> 🧪 Casos de testes manuais e automatizados com base em aplicações web reais  
+> 🚀 Testes de APIs com **Postman**, **Newman**, e organização dos casos com **Jira**  
+> ⚙️ Automação com **Selenium WebDriver** e integração com pipelines simples de CI  
+
+---
